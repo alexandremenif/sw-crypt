@@ -1,0 +1,15 @@
+{
+  "name": "sw-crypt",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "finalhandler": "^1.2.0",
+    "serve-static": "^1.15.0"
+  }
+}
